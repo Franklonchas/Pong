@@ -11,4 +11,4 @@ When one of the two players reaches 5 points the game will end, so do not let th
 
 * **Francisco Javier Sanchez de la Torre** [Github](https://github.com/Franklonchas)
 
-You can use the application by pressing [HERE]().
+You can use the application by pressing [HERE](https://franklonchas.github.io/Pong/).
